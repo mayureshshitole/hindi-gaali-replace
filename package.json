@@ -1,12 +1,27 @@
 {
-  "name": "package",
+  "name": "hindi-gaali-replace",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mayureshshitole/hindi-gaali-replace.git"
+  },
+  "keywords": [
+    "hindi",
+    "gaali",
+    "replace",
+    "abusive",
+    "words",
+    "replace"
+  ],
+  "author": "Mayuresh Shitole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mayureshshitole/hindi-gaali-replace/issues"
+  },
+  "homepage": "https://github.com/mayureshshitole/hindi-gaali-replace#readme"
 }
