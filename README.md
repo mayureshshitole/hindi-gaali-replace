@@ -16,7 +16,6 @@ the main function in this package is gaaliReplace
 
 ### How to Use?
 
-Common direct use --> 
 ` gaaliReplace(Sentence, Replacer, YourExtraWords, IgnoreTheseWords) `
 
 Function takes four arguments 
@@ -24,6 +23,8 @@ Function takes four arguments
 * **Replacer** - String you want to replace with words
 * **YourExtraWords** - Array of strings you want to replace which is not present in package
 * **IgnoreTheseWords** - Array of strings you want to ignore which is present in package
+
+Common direct use --> 
 this returns the filtered string so you can use it directly
 
 ```
