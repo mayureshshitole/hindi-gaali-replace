@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mayureshshitole/hindi-gaali-replace.git"
@@ -23,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/mayureshshitole/hindi-gaali-replace/issues"
   },
-  "homepage": "https://github.com/mayureshshitole/hindi-gaali-replace#readme"
+  "homepage": "https://github.com/mayureshshitole/hindi-gaali-replace#readme",
+  "Author Profile": "https://mayureshshitole.vercel.app"
 }
